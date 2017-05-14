@@ -1,6 +1,10 @@
 
 # ASP.NET Core Workshop
 
+## Overview
+
+This is Spencer's fork of the repository created by Jon Galloway and Damian Edwards (and others) which condenses the two-day workshop into one.  For more reading and practice, I recommend poking around the original repo, which you can find [here](https://github.com/jongalloway/aspnetcore-workshop).
+
 ## Installers
 
 ### .NET Core SDK 1.0 Preview 4 build 004233
