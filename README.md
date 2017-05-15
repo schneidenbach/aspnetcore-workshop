@@ -8,7 +8,7 @@ This is Spencer's fork of the repository created by Jon Galloway and Damian Edwa
 ## Installers
 
 ### .NET Core SDK 1.0 Preview 4 build 004233
-Follow instructions from https://github.com/dotnet/core/blob/master/release-notes/1.0/1.0.4-sdk.md
+Follow instructions from https://www.microsoft.com/net/download/core.  Scroll down to Step-by-step instructions
 
 ### Visual Studio 2017 RC (Offline Installer)
 1. Run vs_community.exe in vs2017 folder
