@@ -93,19 +93,3 @@
  - Event Log with ASP.NET Core module
  - Diagnostics in Azure
  
-
-# MVC API
-- Start with ASP.NET Core project and add MVC.Core
-- Show basic attribute route
-- Add JSON support
-- Add Product model
-- Add data using the EF in memory store
-- Camel case properties
-- Write CRUD ProductsController
-    - GetAll(), Get(id), Post(product), Delete(id)
-    - Handle unknown products (404)
-    - Model validation for Post
-    - Rich model validation with errors flowing to the client
-- Add Xml support
-- Produces/Consumes
-- Custom input and output formatter (custom format) 
