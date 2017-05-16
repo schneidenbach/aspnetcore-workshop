@@ -7,15 +7,13 @@ This is Spencer's fork of the repository created by Jon Galloway and Damian Edwa
 
 ## Installers
 
-### .NET Core SDK 1.0 Preview 4 build 004233
-Follow instructions from https://www.microsoft.com/net/download/core.  Scroll down to Step-by-step instructions
-
-### Visual Studio 2017 RC (Offline Installer)
-1. Run vs_community.exe in vs2017 folder
-1. Select **only** `.NET Core` and `Web Development` workloads
+We'll run through all examples using the command line and Visual Studio Code.  Feel free to use 
 
 ### VS Code (on USB drive)
 1. Install VS Code from USB drive or http://code.visualstudio.com.
+
+### .NET Core SDK 1.1
+Follow instructions from https://www.microsoft.com/net/download/core.  Scroll down to Step-by-step instructions.
 
 ## Schedule
 
@@ -32,5 +30,6 @@ Follow instructions from https://www.microsoft.com/net/download/core.  Scroll do
 | 1:45 PM - 2:30 PM | Session #4: Logging & Error Handling | 
 | 2:30 PM - 2:45 PM | Break | 
 | 2:45 PM - 3:15 PM | Lab #4 | Using logging abstractions & providers, diagnostics pages/middleware |
-| 3:15 PM - 4:00 PM | Session #5: Single Page Applications | 
-| 4:00 PM - 4:30 PM | Lab #5 | Single Page Applications |
+| 3:15 PM - 4:00 PM | Session #5: APIs with MVC Core | 
+| 4:00 PM - 4:30 PM | Lab #5 | APIs with MVC Core |
+| If we have extra time | Single Page Apps Overview | 
