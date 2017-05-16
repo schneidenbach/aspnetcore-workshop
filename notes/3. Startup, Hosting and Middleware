@@ -1,0 +1,33 @@
+# Startup 
+
+- Empty Web Application
+- Hosting API `WebHostBuilder` builds the web application
+- The `Startup` class is Entry point of the web application
+- It's the new `web.config` (even tho there is still a `web.config` specifically for IIS)
+- IIS hosting via AspNetCoreModule
+- Separation between static content and application code via `webroot` aka `wwwroot` folder
+- Configuration via `IConfiguration`
+- `ConfigureServices` - for DI 
+- `Configure` - for the ASP.NET pipeline
+ - `IApplicationBuilder` stores the list of middleware in the pipeline
+ - `app.UseXX` register pieces of middleware
+- Configure logging providers
+- `IHostingEnvironment` - Root of the world for your ASP.NET application
+
+- .NET Core
+.NET Framework
+
+# Middleware
+
+- A `module/handler` replacement
+- Linear pipeline with ordered components
+- Before/After semantics
+- Russion doll model
+- Dependency injection aware
+  - Per request scoped services
+- Modify the request/response
+- Can Add/remove feature interfaces on a per request basis
+
+c. Middleware
+	i. Middleware introduction
+	ii. [demo] Static Files (start with Empty project)
