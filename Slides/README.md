@@ -1,0 +1,1 @@
+Slides for this ASP.NET Core Workshop were originally done by Jon Galloway and other Microsoft employees.
